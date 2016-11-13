@@ -1,6 +1,6 @@
 pkgname=studio-ghibli-wallpapers
 _pkgname=Studio-ghibli-wallpapers
-pkgver=f99039a
+pkgver=9ee8ba1
 pkgrel=1
 pkgdesc="Wallpapers from Studio Ghibli movies"
 url="https://studioghiblimovies.com/"
