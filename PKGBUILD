@@ -8,7 +8,7 @@ arch=('x86_64')
 license=('CCPL:by-sa')
 depends=('kservice')
 install=${pkgname}.install
-source=("git+https://github.com/bison-paolo/Studio-ghibli-wallpapers.git")
+source=("git+https://github.com/mrpable/Studio-ghibli-wallpapers.git")
 sha1sums=('SKIP')
  
 package() {
